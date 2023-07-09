@@ -186,6 +186,12 @@ h2 {
   font-size: 25px;
   margin-left: 30px;
 }
+.project-card h3 a {
+  color: black;
+}
+.project-card h3 a:hover {
+  color: white;
+}
 
 .project-card li {
   font-size: 20px;
